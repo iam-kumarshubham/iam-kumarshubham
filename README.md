@@ -2,7 +2,7 @@
 
 🚀 Full Stack Software Engineer | Python | .NET | React | FastAPI | Cloud Enthusiast  
 
-I'm a passionate full stack developer with 4+ years of experience building scalable web applications and APIs. I enjoy solving real-world problems through clean, efficient code and intuitive user experiences. Currently working at EY FSO Labs India, where I’ve contributed as core dev for platforms.
+I'm a passionate full stack developer with 4+ years of experience building scalable web applications and APIs. I enjoy solving real-world problems through clean, efficient code and intuitive user experiences. Currently working at EY FSO Labs India, where I’ve contributed as core dev for multiple platforms.
 
 ---
 
